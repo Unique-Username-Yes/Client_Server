@@ -1,6 +1,5 @@
 Both server and client built using Windows Visual Studio C++
 
-## Instructions
 In order to run server, run Server->Server->Debug->Server.exe file
 After server is running, create client application by executing Client->Debug->Client.exe
 
